@@ -1,0 +1,9 @@
+
+.DS_Store
+wget-*.tar.gz
+wget-*/*
+CocoaWget.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcuserstate
+CocoaWget.xcodeproj/xcuserdata/rysch.xcuserdatad/xcschemes/xcschememanagement.plist
+CocoaWget.xcodeproj/xcshareddata/xcschemes/CocoaWget.xcscheme
+CocoaWget.xcodeproj/project.xcworkspace/contents.xcworkspacedata

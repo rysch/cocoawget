@@ -2,9 +2,9 @@
 
 #http://developer.apple.com/technotes/tn2005/tn2137.html
 
-./wget -c http://ftp.gnu.org/gnu/wget/wget-1.15.tar.gz
-tar xvfz wget-1.15.tar.gz
-cd wget-1.15
+./wget -c http://ftp.gnu.org/gnu/wget/wget-1.21.3.tar.gz
+tar xvfz wget-1.21.3.tar.gz
+cd wget-1.21.3
 
 ./configure --disable-dependency-tracking
 make
